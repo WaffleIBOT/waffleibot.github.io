@@ -2,8 +2,8 @@
 title = "STOP using the Mojang launcher"
 date = "2023-08-18"
 author = "waffleibot"
-cover = "/img/stop-using-mojangs-minecraft-launcher.png"
-tags = [""]
+cover = "/img/STOP-using-the-Mojang-launcher.png"
+tags = false
 description = "The Mojang launcher is very basic compared to other Minecraft launchers."
 showFullContent = false
 readingTime = false
