@@ -1,31 +1,19 @@
 +++
 title = "Projects"
 author = "waffleibot"
-description = "my personal projects and other projects"
+description = "my personal projects"
 +++
 
 Minecraft Projects - I'm currently working on these two modpacks but soon more!
 
-## [Waffle's Optimization](https://modrinth.com/modpack/wafflesop)
+## [Hammer](https://modrinth.com/modpack/hammer)
 
-This is the project where I invest the most effort and time. In this modpack, I aim to maintain a balance between quality and performance. This caters to the average user who prefers not to go beyond a download button.
+Hammer is a simple performance modpack for Forge that tries to keep the game as fast as possible, while still looking great. It is meant to be a sort of "base layer" that you can build on top of to make your own modpacks and instances or just use by itself. It is designed to have the least mods possible, with the best performance possible. No quality-of-life mods, just optimization.
 
-You can find the project files on [GitHub](https://github.com/waffleibot/wafflesoptimization) and the versions on [Modrinth](https://modrinth.com/modpack/wafflesop).
+You can find the project files on [GitHub](https://github.com/skywardmc/hammer) and the builds on [Modrinth](https://modrinth.com/modpack/hammer).
 
-## [Vanilla Injection](https://modrinth.com/modpack/vain)
+## [Waffle's Optimization](https://modrinth.com/modpack/wafflesoptimization)
 
-This is another of my modpacks that I dedicate less time to, as it has a fairly new loader and the mods are updated more frequently. In this project, I mainly focus on the game's quality, as it's the heaviest option in "Waffle's Optimization".
+Waffle's Optimization is a modpack designed to provide a more immersive experience than other modpacks offer, although if you are looking for performance take a look at modpacks like [Simply Optimized](https://modrinth.com/modpack/sop) or [Additive](https://modrinth.com/modpack/additive), this modpack brings most of the features of optifine.
 
-You can find the project files on [GitHub](https://github.com/waffleibot/vanillainjection) and the versions on [Modrinth](https://modrinth.com/modpack/vain).
-
----
-
-Other Projects
-
-## [WaffleWare License](https://github.com/WaffleIBOT/waffleware-license)
-
-The "WaffleWare License" is a legal agreement that grants individuals the right to use, modify, and distribute software, including its source code, under specific conditions. This license adheres to the principles of "open source," meaning that the software is accessible to everyone and can be adapted to individual needs. However, this license restricts the commercial redistribution of the software without prior permission from the copyright holders. Additionally, it mandates the inclusion of the copyright notice in all copies. It's important to note that the license doesn't provide warranties, and the authors aren't liable for any issues that may arise from using the software.
-
-In summary, the "WaffleWare License" enables sharing and modification of the software, but with certain limitations and requirements to protect the creators' rights and maintain the project's integrity.
-
-You can find the license files on [GitHub](https://github.com/WaffleIBOT/waffleware-license).
+You can find the project files on [GitHub](https://github.com/waffleibot/wafflesoptimization) and the builds on [Modrinth](https://modrinth.com/modpack/wafflesoptimization).
