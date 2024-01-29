@@ -1,0 +1,1 @@
+Hi! My name is Waffle. I create Minecraft modpacks, work as an English to Spanish translator, and occasionally try my hand at creating mods. You can find my [GitHub profile](https://github.com/waffleibot).
